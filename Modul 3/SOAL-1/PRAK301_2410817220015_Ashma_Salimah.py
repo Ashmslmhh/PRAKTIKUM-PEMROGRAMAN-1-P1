@@ -1,0 +1,7 @@
+a, b, c = map(int, input().split())
+if a<b & b<c : print(f"{a} {b} {c}")
+elif b<c & c<a : print(f"{b} {c} {a}")
+elif c<b & b<a : print(f"{c} {b} {a}")
+elif a<c & c<b : print(f"{a} {c} {b}")
+elif c<a & a<b : print(f"{c} {a} {b}")
+else : print(f"{b} {a} {c}")
