@@ -1,1 +1,3 @@
 # PRAKTIKUM-PEMROGRAMAN-1-P1
+Nama : Ashma Salimah <br>
+NIM  : 2410817220015
